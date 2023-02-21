@@ -1,4 +1,4 @@
-
+<img src="Banner.png">
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">I am a front-end developer currently studying the MERN stack. I’m passionate about software development and I’m looking forward to meeting new people and getting to work on new projects.</h3>
 
