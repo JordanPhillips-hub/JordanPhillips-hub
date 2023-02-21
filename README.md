@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jordan Phillips</h1>
+<h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">I am a front-end developer currently studying the MERN stack. I’m passionate about software development and I’m looking forward to meeting new people and getting to work on new projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanphillips-hub&label=Profile%20views&color=0e75b6&style=flat" alt="jordanphillips-hub" /> </p>
