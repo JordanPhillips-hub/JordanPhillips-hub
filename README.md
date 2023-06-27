@@ -1,6 +1,6 @@
 <img src="Banner.png">
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">I am a front-end developer currently studying the MERN stack. I’m passionate about software development and I’m looking forward to meeting new people and getting to work on new projects.</h3>
+<h3 align="center">A front-end developer currently studying the MERN stack. I’m passionate about software development and I’m looking forward to meeting new people and getting to work on new projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
