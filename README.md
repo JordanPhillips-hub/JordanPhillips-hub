@@ -3,9 +3,6 @@
 <h3 align="center">A front-end developer currently studying the MERN stack. I’m passionate about software development and I’m looking forward to meeting new people and getting to work on new projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-- 🔭 I’m currently working on **Devslopes Code Commerce**
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **jordan.phillips.988@gmail.com**
