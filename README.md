@@ -38,11 +38,10 @@
   </a> 
 </p>
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanphillips-hub&show_icons=true&locale=en&layout=compact" alt="jordanphillips-hub" />
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=jordanphillips-hub&show_icons=true&locale=en" alt="jordanphillips-hub" />
-  <img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jordanphillips-hub&" alt="jordanphillips-hub" />
-</div>
+<img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanphillips-hub&show_icons=true&locale=en&layout=compact" alt="jordanphillips-hub" />
+<img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=jordanphillips-hub&show_icons=true&locale=en" alt="jordanphillips-hub" />
+<img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jordanphillips-hub&" alt="jordanphillips-hub" />
+
 
 
 
