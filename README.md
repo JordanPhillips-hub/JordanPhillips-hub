@@ -37,9 +37,12 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanphillips-hub&show_icons=true&locale=en&layout=compact" alt="jordanphillips-hub" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanphillips-hub&show_icons=true&locale=en" alt="jordanphillips-hub" />
+<div style="width: 300px; height: 140px;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanphillips-hub&show_icons=true&locale=en&layout=compact" alt="jordanphillips-hub" />
+</div>
+<div style="width: 300px; height: 140px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanphillips-hub&show_icons=true&locale=en" alt="jordanphillips-hub" />
+</div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordanphillips-hub&" alt="jordanphillips-hub" />
 
 
